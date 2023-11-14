@@ -1,5 +1,7 @@
 # 💫 About Me:
-📚 Student in second year of Master GPhy at the University of Poitiers.<br><br>📊 Trainee Analytics Services Consultant at Revvity Signals.<br><br>🚀 Open to work ! 
+📊 Last experience : Trainee Analytics Services Consultant at Revvity Signals.
+<br><br>
+🚀 Starting a new journey soon ! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-godart) 
